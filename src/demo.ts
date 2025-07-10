@@ -12,7 +12,7 @@ const graphStateConfig = {
 };
 
 const stream = await graph.stream(
-  { userUrl: "https://langchain.com/*" },
+  { userUrl: "https://google.com" },
   graphStateConfig,
 );
 

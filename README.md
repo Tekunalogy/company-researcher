@@ -105,7 +105,7 @@ In addition to visualizing your workflow in the LangGraph Studio UI, you can als
 To run the demo, you can run the following command:
 
 ```bash
-yarn demo
+npm run demo
 ```
 
 This will run the `demo.ts` file, which will start the workflow and stream the output to the console.
